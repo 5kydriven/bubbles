@@ -1,4 +1,4 @@
-// Change the text between the quotation marks and run your code to see the name of your favorite language animated!
+// Change the text between the quotation marks
 drawText('I MISS YOU');
 
 
